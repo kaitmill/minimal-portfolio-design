@@ -15,9 +15,14 @@
 	float: left;
 }
 
+.margin {
+	margin-left: 100px;
+}
+
 body {
 	font-family: 'Open Sans', sans-serif;
 	color: #313131;
+	font-weight: 400;
 }
 
 /* * Header Styles * */
@@ -94,10 +99,6 @@ header p {
 	padding-bottom: 100px;
 }
 
-.rogue {
-	margin-left: 100px;
-}
-
 #portfolio p {
 	margin-top: -10px;
 }
@@ -109,6 +110,42 @@ header p {
 	height: 650px;
 	background-color: #ff654a;;
 	color: #fff;
+	text-align: center;
 }
+
+#contact h2 {
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 700;
+	font-size: 36px;
+	padding-top: 175px;
+	padding-bottom: 100px;
+}
+
+#contact a {
+	text-decoration: none;
+	color: #fff;
+	margin-right: 25px;
+}
+
+#contact h4,
+#contact p {
+	font-size: 24px;
+}
+
+#contact .copyright p {
+	margin-top: 300px;
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
