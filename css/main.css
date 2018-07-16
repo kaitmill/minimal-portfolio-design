@@ -1,1 +1,57 @@
 /* * Main Styles * */
+
+.full-width {
+	width: 1400px;
+	clear: both;
+}
+
+.half-width {
+	width: 600px;
+	float: right;
+}
+
+.third-width {
+	width: 400px;
+	float: left;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #313131;
+	/*font-family: 'Libre Baskerville', serif;*/
+}
+
+/* * Header Styles * */
+
+.main-nav ul {
+	list-style-type: none;
+}
+
+.main-nav a {
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	color: #313131;
+	float: left;
+	padding: 15px;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+/* * About Styles * */
+
+
+
+
+
+/* * Portfolio Styles * */
+
+
+
+
+
+/* * Footer Styles * */
+
+
+
+
