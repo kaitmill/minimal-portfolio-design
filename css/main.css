@@ -82,8 +82,25 @@ header p {
 
 #portfolio {
 	height: 850px;
+	text-align: center;
 }
 
+
+#portfolio h2 {
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 700;
+	font-size: 36px;
+	padding-top: 175px;
+	padding-bottom: 100px;
+}
+
+.rogue {
+	margin-left: 100px;
+}
+
+#portfolio p {
+	margin-top: -10px;
+}
 
 
 /* * Footer Styles * */
